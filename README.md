@@ -1,4 +1,4 @@
-# NoteApp Security Interview
+# NoteApp Interview
 
 ## Task
 Run the program and identify any issues.
